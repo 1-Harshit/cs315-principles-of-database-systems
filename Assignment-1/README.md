@@ -22,11 +22,11 @@ is presented below. Using MySQL command line client (you will probably need a My
 password to begin a session), create a database (e.g., movies) and within this database, create the
 tables given in the schema.
 
-## Schema
+## Schema  
 
-`movies(title VARCHAR(50), length int, genre VARCHAR(30))`
-`starsin(starname VARCHAR(100), title VARCHAR(50))`
-`stardetails(starname VARCHAR(100), DOB DATE, gender CHAR(1))`  
+`movies(title VARCHAR(50), length int, genre VARCHAR(30))`  
+`starsin(starname VARCHAR(100), title VARCHAR(50))`  
+`stardetails(starname VARCHAR(100), DOB DATE, gender CHAR(1))`    
 
 **Primary Keys:**  
 
