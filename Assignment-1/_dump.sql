@@ -1,0 +1,17 @@
+INSERT INTO movies VALUES("ABCD", 156, "Comedy");
+INSERT INTO movies VALUES("SSS", 156, "Action");
+INSERT INTO movies VALUES("TO", 186, "Comedy");
+INSERT INTO movies VALUES("Mov-ev", 53, "Evil");
+INSERT INTO movies VALUES("mov-Rom", 142, "Romance");
+INSERT INTO movies VALUES("romcom200", 200, "Comedy");
+INSERT INTO movies VALUES("ssAc2020", 600, "Action");
+INSERT INTO movies VALUES("ABCD2", 162, "Comedy");
+INSERT INTO starsin VALUES("ABCD","StarABC");
+INSERT INTO starsin VALUES("SSS","StarABC");
+INSERT INTO starsin VALUES("ABCD","StarSS");
+INSERT INTO starsin VALUES("TO","Staer");
+INSERT INTO starsin VALUES("mov-Rom","Stttt");
+INSERT INTO starsin VALUES("ssAc2020","Staer");
+INSERT INTO stardetails VALUES("StarABC","1999-01-01","F");
+INSERT INTO stardetails VALUES("StarSS","1999-01-01","M");
+INSERT INTO stardetails VALUES("Staer","1999-01-01","M");
