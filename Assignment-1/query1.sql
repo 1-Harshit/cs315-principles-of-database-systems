@@ -1,3 +1,6 @@
+-- Author:	Harshit Raj
+-- Date:	09-02-2022
+-- Roll:	200433
 SELECT
 	starsin.starname,
 	starsin.title,

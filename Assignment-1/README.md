@@ -26,7 +26,7 @@ tables given in the schema.
 
 `movies(title VARCHAR(50), length int, genre VARCHAR(30))`  
 `starsin(starname VARCHAR(100), title VARCHAR(50))`  
-`stardetails(starname VARCHAR(100), DOB DATE, gender CHAR(1))`    
+`stardetails(starname VARCHAR(100), DOB DATE, gender CHAR(1))`  
 
 **Primary Keys:**  
 
